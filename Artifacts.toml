@@ -1,0 +1,83 @@
+[[libdrm]]
+arch = "aarch64"
+git-tree-sha1 = "6194a7d9616b9055c7a555113c4ac2b9e98facff"
+libc = "glibc"
+os = "linux"
+
+    [[libdrm.download]]
+    sha256 = "3d8eda2d14d41297eee657da6f3170d7934029b18709acb2e420cbda146ff2c4"
+    url = "https://github.com/JuliaBinaryWrappers/libdrm_jll.jl/releases/download/libdrm-v2.4.103+0/libdrm.v2.4.103.aarch64-linux-gnu.tar.gz"
+[[libdrm]]
+arch = "aarch64"
+git-tree-sha1 = "4c60e3f1045141e16ae22eb69c478406b58ebea7"
+libc = "musl"
+os = "linux"
+
+    [[libdrm.download]]
+    sha256 = "184d7b797c94376e91b88d2062962e95fe12c653d59be5cb324d0428ef009b85"
+    url = "https://github.com/JuliaBinaryWrappers/libdrm_jll.jl/releases/download/libdrm-v2.4.103+0/libdrm.v2.4.103.aarch64-linux-musl.tar.gz"
+[[libdrm]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "264af5e3bd48e247ed1c797aed6f96df55631d24"
+libc = "glibc"
+os = "linux"
+
+    [[libdrm.download]]
+    sha256 = "c89f0a1cd738f99fc258d9386d139b9bc00868cdd1c31352e6ccdeacfd73be1c"
+    url = "https://github.com/JuliaBinaryWrappers/libdrm_jll.jl/releases/download/libdrm-v2.4.103+0/libdrm.v2.4.103.armv7l-linux-gnueabihf.tar.gz"
+[[libdrm]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "fea1d80983798d4d1f3478264e257675dfdf4ed4"
+libc = "musl"
+os = "linux"
+
+    [[libdrm.download]]
+    sha256 = "8863574e055b7930b51f4fa88782a16a6549041430c157114fc618a21856a3a5"
+    url = "https://github.com/JuliaBinaryWrappers/libdrm_jll.jl/releases/download/libdrm-v2.4.103+0/libdrm.v2.4.103.armv7l-linux-musleabihf.tar.gz"
+[[libdrm]]
+arch = "i686"
+git-tree-sha1 = "30c5f7e68ad87495e968a2cfe72ba8dbe9537372"
+libc = "glibc"
+os = "linux"
+
+    [[libdrm.download]]
+    sha256 = "844125ee335f3b522730997472169891ee5c468ce1644432cd1610427dcde341"
+    url = "https://github.com/JuliaBinaryWrappers/libdrm_jll.jl/releases/download/libdrm-v2.4.103+0/libdrm.v2.4.103.i686-linux-gnu.tar.gz"
+[[libdrm]]
+arch = "i686"
+git-tree-sha1 = "81c4e41b07c86872123a3966058341e890d24fb2"
+libc = "musl"
+os = "linux"
+
+    [[libdrm.download]]
+    sha256 = "079d4ecec72b4d662dcd2c9ad7c07fffb71f4b8992ae6b8c26762101ddfcc3eb"
+    url = "https://github.com/JuliaBinaryWrappers/libdrm_jll.jl/releases/download/libdrm-v2.4.103+0/libdrm.v2.4.103.i686-linux-musl.tar.gz"
+[[libdrm]]
+arch = "powerpc64le"
+git-tree-sha1 = "05ac38b2280a7b9e44876bcbc8c9c95bdfe8cf32"
+libc = "glibc"
+os = "linux"
+
+    [[libdrm.download]]
+    sha256 = "cae4f04b116f753fc91c9b8c3fa3ddb5fba1cd8bc64c65781068068b2fedcd37"
+    url = "https://github.com/JuliaBinaryWrappers/libdrm_jll.jl/releases/download/libdrm-v2.4.103+0/libdrm.v2.4.103.powerpc64le-linux-gnu.tar.gz"
+[[libdrm]]
+arch = "x86_64"
+git-tree-sha1 = "9072e26a27ab9baed8793f425590c95c18b14aad"
+libc = "glibc"
+os = "linux"
+
+    [[libdrm.download]]
+    sha256 = "ec5397d79dd08039f3646cd3b5b2fe1c9e67bb049298884b22b5a5e6ecf462c2"
+    url = "https://github.com/JuliaBinaryWrappers/libdrm_jll.jl/releases/download/libdrm-v2.4.103+0/libdrm.v2.4.103.x86_64-linux-gnu.tar.gz"
+[[libdrm]]
+arch = "x86_64"
+git-tree-sha1 = "7fee2ead0b7855cfb535a4d60681bdcabe759a37"
+libc = "musl"
+os = "linux"
+
+    [[libdrm.download]]
+    sha256 = "6c7df30e8d4d139a1c53ac3abe0517d8245b29522923b8fb60489e49a85a96d0"
+    url = "https://github.com/JuliaBinaryWrappers/libdrm_jll.jl/releases/download/libdrm-v2.4.103+0/libdrm.v2.4.103.x86_64-linux-musl.tar.gz"
