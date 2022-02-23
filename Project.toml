@@ -1,6 +1,6 @@
 name = "libdrm_jll"
 uuid = "8e53e030-5e6c-5a89-a30b-be5b7263a166"
-version = "2.4.106+0"
+version = "2.4.110+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
